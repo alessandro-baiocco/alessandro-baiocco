@@ -10,7 +10,6 @@ un saluto a chi sta leggendo il mio nome è alessandro baiocco sono un giovane i
 
 <p>Connect with me:</p>
   <a href="www.linkedin.com/in/alessandro-baioccowebdeveloper"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="width:50px;height:50px;display:inline"/></a>
-
   <div style="display:flex">
     <h2>Languages and Tools:</h2>
     <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" style="width:50px;height:50px;display:inline"/></a>
@@ -24,8 +23,8 @@ un saluto a chi sta leggendo il mio nome è alessandro baiocco sono un giovane i
     <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgress sql"  style="width:50px;height:50px;display:inline"/></a>
     <a href="https://nodejs.org/en"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs"  style="width:50px;height:50px;display:inline"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual studio code"  style="width:50px;height:50px;display:inline"/></a>
-    <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass"  style="width:50px;height:50px;display:inline"/>
-    <a href="https://spring.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="spring"  style="width:50px;height:50px;display:inline"/>
-    <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript"  style="width:50px;height:50px;display:inline"/>
+    <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass"  style="width:50px;height:50px;display:inline"/></a>
+    <a href="https://spring.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="spring"  style="width:50px;height:50px;display:inline"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript"  style="width:50px;height:50px;display:inline"/></a>
   </div>
 </div>
