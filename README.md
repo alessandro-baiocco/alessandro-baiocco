@@ -11,7 +11,7 @@ se cerchi un full stack developer ambizioso che ha voglia di mettersi in gioco n
 📫 puoi contattarmi qui: baioccoalessandro97@gmail.com
 
 <p>Connect with me:</p>
-  <a href="www.linkedin.com/in/alessandro-baioccowebdeveloper"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="width:50px;height:50px;display:inline"/></a>
+  <a href="https://www.linkedin.com/in/alessandro-baioccowebdeveloper/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="width:50px;height:50px;display:inline"/></a>
   <div style="display:flex">
     <h2>Languages and Tools:</h2>
     <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" style="width:50px;height:50px;display:inline"/></a>
